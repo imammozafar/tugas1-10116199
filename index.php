@@ -1,5 +1,5 @@
 <?php
-echo "Imam Mozafar";
-echo "101161xx";
-echo "<a href='index.php'> Kembali </a> ";
+echo "Imam Mozafar<br/>";
+echo "101161xx <br/>";
+echo "<a href='https://tugas1-master-cc4.herokuapp.com' target='_blank'>Back</a> ";
 ?>
